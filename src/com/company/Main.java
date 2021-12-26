@@ -27,12 +27,8 @@ public class Main {
                     max_length=undoubles[i].length();
                     where=i;
             }
-
-
-
         }
         System.out.println(strarray[where]);
-
     }
 }
 
