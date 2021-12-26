@@ -32,14 +32,12 @@ public class Main {
 
         }
         System.out.println(strarray[where]);
-        //for (String undouble:undoubles){0
-        //System.out.println(undouble);}
-        //String[] strarray = str.split("");
+
     }
 }
 
 
-
+//Задание:
 //пользователь вводит сначала количество строк n, затем сами строки.
 // Среди данных строк найти строку с максимальным количеством различных символов.
 // Если таких строк будет много, то вывести первую.
